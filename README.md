@@ -1,5 +1,3 @@
-# #TWSThreeTierAppChallenge
-
 ## Overview
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
